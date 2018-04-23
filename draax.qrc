@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about48.png</file>
+        <file>images/crack48.png</file>
+        <file>images/draax48.png</file>
+        <file>images/encode48.png</file>
+        <file>images/folder48.png</file>
+        <file>images/generate48.png</file>
+        <file>images/input48.png</file>
+        <file>images/metaData48.png</file>
+        <file>images/output48.png</file>
+        <file>images/remove48.png</file>
+        <file>images/removeAll48.png</file>
+        <file>images/settings48.png</file>
+        <file>images/supported48.png</file>
+        <file>images/unknown48.png</file>
+        <file>images/unsupported48.png</file>
+        <file>images/validate48.png</file>
+        <file>images/wizard48.png</file>
+        <file>docs/about.htm</file>
+    </qresource>
+</RCC>
