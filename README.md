@@ -2,6 +2,11 @@
 
 Version 0.1alpha
 
+## BUILD
+
+    qmake
+    make
+
 ## WHY?
 
 I suppose, in hindsight, I really didn't need this program. I had never logged in to my audible account through their website until very recently. I use an android app to listen to audiobooks so I assumed that all audible files were in the .aax format. As it turns out, you can log in to your audible account, download .aa files for any book that you own, and play them locally without needing the activation bytes.
